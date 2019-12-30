@@ -1,0 +1,4 @@
+#忽略分词器日志（分词器的日志太多）
+logging:
+  level:
+    org.apdplat.word: off
